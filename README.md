@@ -13,11 +13,11 @@ Finally, you’ll add these new visualizations to the two you created in this mo
 You will earn a perfect score for Deliverable 1 by completing all requirements below:
 The data in the "tripduration" column is converted to a datetime datatype and has the correct time format (15 pt)
 
-[!11](Images/11.png)
+![11](Images/11.png)
 
 The DataFrame is exported as a new file without the index column (5 pt)
 
-[!12](Images/12.png)
+![12](Images/12.png)
 
 
 ## Deliverable 2
@@ -25,23 +25,23 @@ The DataFrame is exported as a new file without the index column (5 pt)
 You will earn a perfect score for Deliverable 2 by completing all requirements below:
 There is a line graph displaying the number of bikes checked out by duration for all users, and the graph can be filtered by the hour (10 pt)
 
-[!21](Images/21.png)
+![21](Images/21.png)
 
 There is a line graph displaying the number of bikes that are checked out by duration for each gender by the hour, and the graph can be filtered by the hour and gender (10 pt)
 
-[!22](Images/22.png)
+![22](Images/22.png)
 
 A heatmap is created showing the number of bike trips for each hour of each day of the week (10 pt)
 
-[!23](Images/23.png)
+![23](Images/23.png)
 
 A heatmap is created showing the number of bike trips by gender for each hour of each day of the week, and the heatmap can be filtered by gender (10 pt)
 
-[!24](Images/24.png)
+![24](Images/24.png)
 
 A heatmap is created showing the number of bike trips for each type of user and gender for each day of the week, and you can only filter by user and gender (10 pt)
 
-[!25](Images/25.png)
+![25](Images/25.png)
 
 
 ## Deliverable 3
@@ -49,20 +49,20 @@ A heatmap is created showing the number of bike trips for each type of user and 
 You will earn a perfect score for Deliverable 3 by completing all requirements below:
 Structure, Organization, and Formatting (6 points)
 
-[!31](Images/31.png)
+![31](Images/31.png)
 
 The written analysis has the following structure, organization, and formatting:
 There is a title, and there are multiple sections. (2 pt)
 
-[!32](Images/32.png)
+![32](Images/32.png)
 
 Each section has a heading and subheading. (2 pt)
 
-[!33](Images/33.png)
+![33](Images/33.png)
 
 Links to images are working and displayed correctly. (2 pt)
 
-[!34](Images/34.png)
+![34](Images/34.png)
 
 Analysis (24 points)
 
@@ -70,19 +70,19 @@ The written analysis has the following:
 Overview of the statistical analysis:
 The purpose of the analysis is well defined. (5 pt)
 
-[!31](Images/35.png)
+![35](Images/35.png)
 
 ### Results
 
 There are at least seven visualizations for the NYC Citibike analysis (7 pt)
 
-[!41](Images/41.png)
+![41](Images/41.png)
 
 There is a description of the results for each visualization (7 pt)
 
-[!42](Images/42.png)
+![42](Images/42.png)
 
 Summary:
 There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
 
-[!43](Images/43.png)
+![43](Images/43.png)
