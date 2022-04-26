@@ -1,4 +1,6 @@
 201908-citibike-tripdata.csv
+201908-citibike-tripdata_newtime.csv
+config.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
