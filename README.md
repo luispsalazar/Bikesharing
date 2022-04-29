@@ -10,12 +10,11 @@ Finally, you’ll add these new visualizations to the two you created in this mo
 
 ## Deliverable 1
 
-You will earn a perfect score for Deliverable 1 by completing all requirements below:
-The data in the "tripduration" column is converted to a datetime datatype and has the correct time format (15 pt)
+The data in the "tripduration" column is converted to a datetime datatype and has the correct time format.
 
 ![11](Images/11.png)
 
-The DataFrame is exported as a new file without the index column (5 pt)
+The DataFrame is exported as a new ".csv" file, without the index column.
 
 ![12](Images/12.png)
 
