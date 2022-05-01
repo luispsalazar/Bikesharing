@@ -2,6 +2,8 @@
 
 "Bikesharing" analyzes New York City's Bikesharing data, to assess if this business model could be replicated in Des Moines. The rides are sorted and filtered by duration, hour, day, gender, user-type, start and end-locations.
 
+[Link to Public Tableau](https://public.tableau.com/app/profile/luis.salazar6790/viz/Mod14Challenge_16512468881840/BikesharingSummary?publish=yes)
+
 
 ## Deliverable 1
 
