@@ -14,31 +14,30 @@ The data in the "tripduration" column is converted to a datetime datatype and ha
 
 ![11](Images/11.png)
 
-The DataFrame is exported as a new ".csv" file, without the index column.
+The DataFrame is exported as a new **".csv"** file, without the index column.
 
 ![12](Images/12.png)
 
 
 ## Deliverable 2
 
-You will earn a perfect score for Deliverable 2 by completing all requirements below:
-There is a line graph displaying the number of bikes checked out by duration for all users, and the graph can be filtered by the hour (10 pt)
+A line graph displays the number of bikes checked out, by trip duration, for all users. The graph can be filtered by its duration, in hours.
 
 ![21](Images/21.png)
 
-There is a line graph displaying the number of bikes that are checked out by duration for each gender by the hour, and the graph can be filtered by the hour and gender (10 pt)
+A line graph displays the number of bikes that are checked out by duration for each gender, by the hour. The graph can be filtered by the hour and gender.
 
 ![22](Images/22.png)
 
-A heatmap is created showing the number of bike trips for each hour of each day of the week (10 pt)
+A heatmap shows the number of bike trips for each hour of each day of the week.
 
 ![23](Images/23.png)
 
-A heatmap is created showing the number of bike trips by gender for each hour of each day of the week, and the heatmap can be filtered by gender (10 pt)
+A heatmap shows the number of bike trips by gender for each hour of each day of the week, the heatmap can be filtered by gender.
 
 ![24](Images/24.png)
 
-A heatmap is created showing the number of bike trips for each type of user and gender for each day of the week, and you can only filter by user and gender (10 pt)
+A heatmap shows the number of bike trips for each type of user and gender, for each day of the week, it can be filtered by user and gender.
 
 ![25](Images/25.png)
 
